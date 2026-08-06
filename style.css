@@ -229,3 +229,33 @@ display:none;
 }
 
 }
+.hero-buttons{
+    display:flex;
+    gap:15px;
+    flex-wrap:wrap;
+    align-items:center;
+}
+
+.social-btn{
+    display:flex;
+    align-items:center;
+    gap:8px;
+}
+
+.instagram{
+    background:#E1306C;
+    color:#fff;
+}
+
+.instagram:hover{
+    background:#C13584;
+}
+
+.tiktok{
+    background:#000;
+    color:#fff;
+}
+
+.tiktok:hover{
+    background:#222;
+}
